@@ -1,0 +1,11 @@
+.product_category {
+    width: 100%;
+    border: 1px;
+    border-radius: 5px;
+    border-color: blue;
+    box-shadow: 3px 8px 14px rgba(136, 198, 253, 0.19);
+}
+
+/* .text {
+    
+} */
